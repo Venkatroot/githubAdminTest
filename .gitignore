@@ -4,4 +4,4 @@ z*
 # ingnore files with env setup
 .env
 # folder ignore 
-[Aa]rtifacts/
+/artifacts/
