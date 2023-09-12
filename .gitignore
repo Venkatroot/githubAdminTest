@@ -1,1 +1,7 @@
 node_modules/
+# ignore files with starting with letter z
+z*
+# ingnore files with env setup
+.env
+# folder ignore 
+[Aa]rtifacts/
